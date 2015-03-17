@@ -1,4 +1,8 @@
+ACTIVE_HYPERLINK_COLOR=13,17,113
 ACTIVE_THEME=Light Studio
-THEME_CHANGED=1426617401866
+HYPERLINK_COLOR=13,17,113
+THEME_CHANGED=1426625275785
 eclipse.preferences.version=1
+hyperlinkColor=13,17,113
+hyperlinkColor.SystemDefault=false
 reverted_console=true
