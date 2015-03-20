@@ -1,0 +1,8 @@
+class CreateLinkedinUserInfos < ActiveRecord::Migration
+  def change
+    create_table :linkedin_user_infos do |t|
+
+      t.timestamps
+    end
+  end
+end

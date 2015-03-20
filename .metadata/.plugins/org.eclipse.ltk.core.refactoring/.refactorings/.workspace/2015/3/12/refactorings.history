@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;discourse/db/migrate/20150318030414_create_linkedin_user_infos.rb&apos;" deleteContents="false" description="Delete resource &apos;discourse/db/migrate/20150318030414_create_linkedin_user_infos.rb&apos;" element1="/discourse/db/migrate/20150318030414_create_linkedin_user_infos.rb" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1426649102612"/>&#x0A;<refactoring comment="Delete resource &apos;discourse&apos;" deleteContents="false" description="Delete resource &apos;discourse&apos;" element1="/discourse" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1426693857926"/>
+</session>

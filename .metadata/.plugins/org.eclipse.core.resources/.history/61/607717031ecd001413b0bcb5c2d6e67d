@@ -1,0 +1,21 @@
+class LinkedinUserInfo < ActiveRecord::Base
+  belongs_to :user
+end
+
+# == Schema Information
+#
+# Table name: linkedin_user_infos
+#
+#  id              :integer          not null, primary key
+#  user_id         :integer          not null
+#  screen_name     :string(255)      not null
+#  linkedin_user_id :integer          not null
+#  url             :string(255)
+#  
+#  created_at      :datetime         not null
+#  updated_at      :datetime         not null
+#
+# Indexes
+#
+#  index_linkedin_user_infos_on_linkedin_user_id  (linkedin_user_id) UNIQUE
+#  index_linkedin_user_infos_on_linkedin_id          (user_id) UNIQUE
